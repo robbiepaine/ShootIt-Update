@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ShootIt" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ShootIt2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/bignerdranch/android/shootit" vcs="Git" />
   </component>
 </project>

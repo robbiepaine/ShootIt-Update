@@ -1,0 +1,16 @@
+Index: app/libs/Parse-1/third_party_licenses.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/libs/Parse-1/third_party_licenses.txt	(date 1449550437000)
++++ app/libs/Parse-1/third_party_licenses.txt	(revision )
+@@ -1,0 +1,0 @@
+Index: gradlew.bat
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- gradlew.bat	(date 1449550437000)
++++ gradlew.bat	(revision )
+@@ -1,0 +1,0 @@
